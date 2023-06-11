@@ -1,0 +1,13 @@
+synth_hw_wiki	English Data Synthtic Handwritten From Wikipedia	21.5GB 
+UHWR	Urdu Dataset NUST Handwritten	700MB
+PUCIT_OHUL_Dataset	Urdu Dataset PUCIT Handwritten	582MB
+UPTI	Urdu Dataset	28.GB
+Synmed-Hand	Medical-Data English	1.29GB
+Synmed	Printed Medical Data English	895MB
+Urdu_Snipets	Medical Urdu Synthetic	2MB
+English_Snipets	Medical Urdu Synthetic	31MB
+specailaugment	Urdu Dataset N-Lines	2.91GB
+specailaugmentuh	Urdu Dataset 2-Lines	220MB
+specailaugmentup	Urdu Dataset 10-Lines	1.78GB
+SROIE	English Text Bill	280MB
+Lines	English IAMs Dataset	880MB
