@@ -1,4 +1,6 @@
 [core]
-    remote = myremote
+    remote = storage
 ['remote "myremote"']
     url = s3://docigize-data/docigize_data/
+['remote "storage"']
+    url = gdrive://1pmLr7hT4uGvO_rZw54bcpNBxsX84mGII
